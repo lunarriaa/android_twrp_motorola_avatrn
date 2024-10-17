@@ -11,7 +11,11 @@ SoC     | Qualcomm SM7435-AB Snapdragon 7s Gen 2 (4 nm)
 CPU     | Octa-core (4x2.40 GHz Cortex-A78 & 4x1.95 GHz Cortex-A55)
 GPU     | Adreno 710
 Memory  | 8 GB RAM (LPDDR4X)
+<<<<<<< HEAD
 Shipped Android Version | 13.0, My UX 3.0 (Global)
+=======
+Shipped Android Version | 14.0, My UX 3.0 (Global)
+>>>>>>> 4774dbfec8b61c20d9c4b4d45950565ba6e8f19b
 Storage | 256 GB (UFS 2.2)
 Battery | Non-removable Li-Po 5000 mAh battery
 Display | P-OLED, 1B clrs, 144Hz, HDR10+, 1300nit, 2400x1080, 6.67" (~402 ppi density)
