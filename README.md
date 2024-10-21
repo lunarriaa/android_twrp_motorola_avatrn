@@ -1,4 +1,4 @@
-Device configuration for Moto Edge 2024 (gen5) (codenamed "avatrn")
+Recovery configuration for Moto Edge 2024 (gen5) (codenamed "avatrn")
 =========================================
 
 The Motorola Moto Edge 2024 (gen5) (codenamed _"avatrn"_) is a mid-range smartphone from Motorola Mobility announced June 4th 2024.
@@ -25,25 +25,25 @@ https://m.gsmarena.com/motorola_edge_(2024)-13111.php
 
 # Status
 Current state of features:
-- [ ] Correct screen/recovery size
-- [ ] Working touch, display
-- [ ] Screen goes off and on
+- [*] Correct screen/recovery size
+- [X] Working touch, display
+- [X] Screen goes off and on
 - [ ] Backup/restore to/from internal/external storage and adb
-- [ ] Poweroff
-- [ ] Reboot to system, bootloader, recovery, fastboot, edl
-- [ ] ADB (including sideload)
-- [ ] Support EROFS/F2FS/EXT4/exFAT/FAT32/NTFS
-- [ ] Decrypt /data
+- [X] Poweroff
+- [X] Reboot to system, bootloader, recovery, fastboot, edl
+- [*] ADB (including sideload)
+- [*] Support EROFS/F2FS/EXT4/exFAT/FAT32/NTFS
+- [*] Decrypt /data
 - [ ] Flashing zip/images
-- [ ] MTP export
+- [X] MTP export
 - [ ] All important partitions listed in wipe/mount/backup lists
-- [ ] Input devices via USB-OTG
+- [X] Input devices via USB-OTG
 - [ ] USB mass storage export
-- [ ] Correct date
-- [ ] Battery level
-- [ ] Set brightness
-- [ ] Vibrate and set vibration
-- [ ] Screenshot
+- [X] Correct date
+- [X] Battery level
+- [X] Set brightness
+- [X] Vibrate and set vibration
+- [X] Screenshot
 - [ ] Advanced features
 
 # Building
@@ -54,5 +54,5 @@ lunch twrp_avatrn-eng
 mka recoveryimage -j$(nproc --all)
 ```
 
-**Copyright (C) 2024 A-Team Digital Solutions**
+**Copyright (C) 2024 A-Team Digital Solutions**<br />
 **Tree template from TeamWin, some file from VanFirmwareDumps**
