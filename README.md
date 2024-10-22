@@ -25,15 +25,15 @@ https://m.gsmarena.com/motorola_edge_(2024)-13111.php
 
 # Status
 Current state of features:
-- [*] Correct screen/recovery size
+- [X] Correct screen/recovery size
 - [X] Working touch, display
 - [X] Screen goes off and on
 - [ ] Backup/restore to/from internal/external storage and adb
 - [X] Poweroff
 - [X] Reboot to system, bootloader, recovery, fastboot, edl
-- [*] ADB (including sideload)
-- [*] Support EROFS/F2FS/EXT4/exFAT/FAT32/NTFS
-- [*] Decrypt /data
+- [X] ADB (including sideload)
+- [X] Support EROFS/F2FS/EXT4/exFAT/FAT32/NTFS
+- [X] Decrypt /data
 - [ ] Flashing zip/images
 - [X] MTP export
 - [ ] All important partitions listed in wipe/mount/backup lists
