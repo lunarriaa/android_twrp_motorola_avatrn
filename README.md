@@ -36,9 +36,9 @@ Current state of features:
 - [X] Decrypt /data
 - [ ] Flashing zip/images
 - [X] MTP export
-- [ ] All important partitions listed in wipe/mount/backup lists
+- [X] All important partitions listed in wipe/mount/backup lists
 - [X] Input devices via USB-OTG
-- [ ] USB mass storage export
+- [X] USB mass storage export
 - [X] Correct date
 - [X] Battery level
 - [X] Set brightness
