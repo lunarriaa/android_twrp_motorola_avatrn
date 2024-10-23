@@ -22,7 +22,7 @@ $(call inherit-product, device/motorola/avatrn/device.mk)
 PRODUCT_DEVICE := avatrn
 PRODUCT_NAME := twrp_avatrn
 PRODUCT_BRAND := motorola
-PRODUCT_MODEL := motorola moto edge 2024 (gen5)
+PRODUCT_MODEL := motorola edge 2024 (gen5)
 PRODUCT_MANUFACTURER := motorola
 
 PRODUCT_GMS_CLIENTID_BASE := android-motorola

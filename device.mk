@@ -59,7 +59,7 @@ PRODUCT_PACKAGES += \
     f2fs_io \
     check_f2fs
 
-# Fastbootd
+# FastbootD
 PRODUCT_PACKAGES += \
     fastbootd \
     android.hardware.fastboot@1.1-impl-mock

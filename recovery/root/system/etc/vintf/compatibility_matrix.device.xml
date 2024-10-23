@@ -6,6 +6,7 @@
         framework_compatibility_matrix.xml
         vendor_framework_compatibility_matrix.xml
         paramupdater_framework_compatibility_matrix.xml
+        compatibility_matrix.device.xml
 -->
 <compatibility-matrix version="4.0" type="framework">
     <hal format="hidl" optional="true">
